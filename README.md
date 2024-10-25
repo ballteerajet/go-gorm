@@ -1,14 +1,15 @@
-# Project Title
+# Getting Started
 
-A brief description of your project.
+## Project Title
 
-## Getting Started
-
-Instructions for setting up your project locally.
+cors login register 
 
 ### Prerequisites
 
 - Go installed
+- Gorm
+- Cors
+- Gin
 - MySQL or other database setup
 
 ### Installation
