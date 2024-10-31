@@ -16,4 +16,4 @@ cors login register
 
 1. Clone the repository:
    ```bash
-   git clone github.com/ballteerajet/go-gorm
+   git clone https://github.com/ballteerajet/go-gorm
